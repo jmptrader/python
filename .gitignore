@@ -1,0 +1,7 @@
+*.sw[o|p|n]
+*.pyc
+pubsubsql.egg-info
+build/
+dist/
+_build
+.python-version
